@@ -16,5 +16,5 @@
 - ✨ Full-Stack Web Developer.
 - 👨‍🎓 Software Engineering student at [Al Azhar University](http://www.alazhar.edu.ps/eng/index.asp)
 - 🔥 Google For Startups internship program Graduate round 4.3
-- :cloud: [AWS re/Start](https://aws.amazon.com/training/restart/)
+- :cloud: [AWS re/Start program](https://aws.amazon.com/training/restart/)
 - :computer: [Career Accelerator Program](https://gazaskygeeks.com/coders-career-accelerator-course/) - Code Academy Graduate
