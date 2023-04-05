@@ -14,6 +14,7 @@
 
 ## Brief <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
 - ✨ Full-Stack Web Developer.
+- 🥳️ Certified AWS cloud practitioner.
 - 👨‍🎓 Software Engineering student at [Al Azhar University](http://www.alazhar.edu.ps/eng/index.asp)
 - 🔥 Google For Startups internship program Graduate round 4.3
 - :cloud: [AWS re/Start program](https://aws.amazon.com/training/restart/)
