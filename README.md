@@ -17,4 +17,3 @@
 - 🥳️ Certified AWS cloud practitioner.
 - 👨‍🎓 Software Engineering student at [Al Azhar University](http://www.alazhar.edu.ps/eng/index.asp)
 - :cloud: [AWS re/Start program.](https://aws.amazon.com/training/restart/)
-- :computer: [Career Accelerator Program](https://gazaskygeeks.com/coders-career-accelerator-course/) - Code Academy Graduate.
